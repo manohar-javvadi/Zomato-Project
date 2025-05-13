@@ -5,4 +5,5 @@ services:
   zomato:
     image: manohar805/manu:zomatoimage
     ports:
+      - "3000:3000"
       
